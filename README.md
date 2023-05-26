@@ -1,13 +1,14 @@
 <html>
 <body>
 
-<h1>A Fancy Table</h1>
+<h1>Files and Forms</h1>
 
 <table id="customers">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Business Type</th>
+    <th>Form</th>
+    <th>Number</th>
+    <th>Fees</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
