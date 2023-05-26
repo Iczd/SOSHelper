@@ -11,7 +11,7 @@
     <th>Fees</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Articles of Incorporation</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
